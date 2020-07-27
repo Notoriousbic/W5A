@@ -1,8 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 div {
     width: 250px;
     height: 500px;
     display: inline-block;
-    margin: 200px 75px;
+    margin: 200px 50pt;
 }
 
 body {
@@ -11,6 +16,9 @@ body {
 
 #col-1 {
     background-color: aqua;
+    height: 100vh;
+    width: 20vw;
+    margin: 0;
 }
 
 #col-2  {
@@ -24,3 +32,20 @@ body {
 #col-4 {
     background-color: darksalmon;
 }
+
+#inner-div 
+{
+    width: 50%;
+    height: 25%;
+    margin: 0;
+    background-color: deepskyblue;
+}
+
+#p-1 {
+    font-size: 2em;   
+}
+
+#p-2m {
+    font-size: 1rem;  
+}
+
