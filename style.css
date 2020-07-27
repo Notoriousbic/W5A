@@ -1,0 +1,26 @@
+div {
+    width: 250px;
+    height: 500px;
+    display: inline-block;
+    margin: 200px 75px;
+}
+
+body {
+    background-color: fuchsia;
+}
+
+#col-1 {
+    background-color: aqua;
+}
+
+#col-2  {
+    background-color: blueviolet;
+}
+
+#col-3 {
+    background-color: burlywood;
+}
+
+#col-4 {
+    background-color: darksalmon;
+}
